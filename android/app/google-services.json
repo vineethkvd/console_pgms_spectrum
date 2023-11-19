@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381535739036",
+    "project_id": "consolepgmsspectrum",
+    "storage_bucket": "consolepgmsspectrum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381535739036:android:18dd39fea69e448c45e159",
+        "android_client_info": {
+          "package_name": "com.console_pgms_spectrum.console_pgms_spectrum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYZgIcxxlK6srwBMI1G87FL6ccHouIik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
