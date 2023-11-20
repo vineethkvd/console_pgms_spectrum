@@ -47,6 +47,9 @@ dependencies:
   screenshot: ^2.1.0
   url_launcher: ^6.2.1
   shared_preferences: ^2.2.2
+  firebase_storage: ^11.5.1
+  image_picker: ^1.0.4
+  path: ^1.8.3
 
 dev_dependencies:
   flutter_test:
